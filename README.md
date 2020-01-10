@@ -1,0 +1,2 @@
+# tsc
+terminal source control
